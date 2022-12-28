@@ -13,7 +13,7 @@ html, body {
 }
 
 .page-1 {
-  background: url(https://kingrnh.github.io/Background.png");
+  background-image: url("Background.png");
   background-position: center;
   background-size: cover;
   height: auto;
